@@ -127,7 +127,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <h1 style={headingStyles}>
-        Hello world
+        Hello world to Starberry
         <br />
         <span style={headingAccentStyles}>
           — you just made a Gatsby site! 🎉🎉🎉
