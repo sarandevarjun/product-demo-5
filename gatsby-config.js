@@ -18,25 +18,6 @@ module.exports = {
       },
     },
 
-    // {
-    //   resolve: `gatsby-plugin-load-script`,
-    //   options: {
-    //     src: [
-    //       "https://code.jquery.com/jquery-3.4.1.min.js",
-    //       "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js",
-    //       "src/lib/wow/wow.min.js",
-    //       "src/lib/easing/easing.min.js",
-    //       "src/lib/waypoints/waypoints.min.js",
-    //       "src/lib/owlcarousel/owl.carousel.min.js",
-    //       "src/lib/counterup/counterup.min.js",
-    //       "src/lib/parallax/parallax.min.js",
-    //       "src/lib/isotope/isotope.pkgd.min.js",
-    //       "src/lib/lightbox/js/lightbox.min.js",
-    //       "src/js/main.js",
-    //     ],
-    //   },
-    // },
-
     /* Product md files listed */
     {
       resolve: `gatsby-source-filesystem`,
