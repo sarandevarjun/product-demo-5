@@ -7,7 +7,6 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
-    "gatsby-transformer-remark",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
